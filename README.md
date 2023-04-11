@@ -1,5 +1,5 @@
-# Brainnest FD Training | Week1 - Assignment2
-Assignment 2 for week of April 10-14, 2023 in the scope of Brainnest Frontend Development Industry Training
+# Brainnest FD Training | Week1 - Assignment3
+Assignment 3 for week of April 10-14, 2023 in the scope of Brainnest Frontend Development Industry Training
 
 ## Details
 
